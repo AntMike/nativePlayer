@@ -1,0 +1,13 @@
+Native Media Player v.1.9.3 License Information
+
+[name of component]    | [name of license]         | [@name of creator] | [url]
+Life-Blossom.wav       | Creative Commons License. | Keys of Moon       | https://soundcloud.com/keysofmoon
+Warm-Memories.wav      | Creative Commons License. | Keys of Moon       | https://soundcloud.com/keysofmoon
+Autumn-Scene.wav       | Creative Commons License. | Keys of Moon       | https://soundcloud.com/keysofmoon
+Inspiring-Dreams.wav   | Creative Commons License. | Keys of Moon       | https://soundcloud.com/keysofmoon
+sample_album_art_1.png | Pixabay License		   | @EvgeniT			| https://pixabay.com/photos/sea-ocean-sunset-long-exposure-7204955/
+sample_album_art_2.png | Pixabay License		   | Bluetenkuss	    | https://pixabay.com/photos/plant-raindrop-foliage-leaves-water-7227222/
+sample_album_art_3.png | Pixabay License		   | pepperminting		| https://pixabay.com/photos/benches-autumn-park-rest-sit-560435/
+sample_album_art_4.png | Pixabay License		   | matthiascooper		| https://pixabay.com/photos/thanksgiving-pumpkin-fall-autumn-3811492/
+
+The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ChannelName">Default Channel Name</string>
+  <string name="ChannelDescription">Default Channel Description</string>
+</resources>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Mike\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Mike\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_nativeAudioPlayer.-1079151682.00" t="ExcludeRecursive" />
+    <e p="E:\testShader\nativeAudioPlayer\nativeAudioPlayer" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Codeqo" t="Include">
+          <e p="Editor" t="Include">
+            <e p="Common" t="Include">
+              <e p="CUILayout.cs" t="Include" />
+              <e p="CUILayoutUtility_Media.cs" t="Include" />
+              <e p="CUIUtility.cs" t="Include" />
+              <e p="CustomEditorBase.cs" t="Include" />
+            </e>
+            <e p="NativeMediaPlayer" t="Include">
+              <e p="Drawer_Playlist.cs" t="Include" />
+              <e p="Drawer_PlaylistItem.cs" t="Include" />
+              <e p="Editor_AndroidSettings.cs" t="Include" />
+              <e p="Editor_iOSSettings.cs" t="Include" />
+              <e p="Editor_MediaEventListener.cs" t="Include" />
+              <e p="Editor_MediaItem.cs" t="Include" />
+              <e p="Editor_MediaSource.cs" t="Include" />
+              <e p="Editor_NMPSettings.cs" t="Include" />
+              <e p="Editor_Playlist.cs" t="Include" />
+              <e p="Editor_UISetting.cs" t="Include" />
+              <e p="PostProcessBuild.cs" t="Include" />
+              <e p="UIComponents" t="Include">
+                <e p="Editor_MediaButton.cs" t="Include" />
+                <e p="Editor_SeekBar.cs" t="Include" />
+                <e p="Editor_VolumeBar.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="NativeMediaPlayer" t="Include">
+            <e p="Demo" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="AdditiveScene" t="Include">
+                  <e p="AdditiveSceneController.cs" t="Include" />
+                  <e p="AdditiveSceneManager.cs" t="Include" />
+                </e>
+                <e p="ArtworkLoaderDemo.cs" t="Include" />
+                <e p="Common" t="Include">
+                  <e p="Fade.cs" t="Include" />
+                  <e p="Information.cs" t="Include" />
+                  <e p="Slide.cs" t="Include" />
+                </e>
+                <e p="CounterDemo.cs" t="Include" />
+                <e p="DemoButton.cs" t="Include" />
+                <e p="MediaItemUI.cs" t="Include" />
+                <e p="MetadataDisplayDemo.cs" t="Include" />
+                <e p="PlayerName.cs" t="Include" />
+                <e p="PlaylistGenerator.cs" t="Include" />
+                <e p="PlaylistLoading.cs" t="Include" />
+                <e p="PlaylistSelector.cs" t="Include" />
+                <e p="PlaylistUI.cs" t="Include" />
+                <e p="PlayOrderDemo.cs" t="Include" />
+                <e p="PluginStateDisplay.cs" t="Include" />
+                <e p="SafeArea.cs" t="Include" />
+                <e p="VolumeText.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Common" t="Include">
+                <e p="MediaItem.cs" t="Include" />
+                <e p="MediaMetadata.cs" t="Include" />
+                <e p="MediaSource.cs" t="Include" />
+                <e p="NMPSettings.cs" t="Include" />
+                <e p="Playlist.cs" t="Include" />
+                <e p="UnityMediaItem.cs" t="Include" />
+                <e p="UnityPlaylist.cs" t="Include" />
+                <e p="UnityTester.cs" t="Include" />
+              </e>
+              <e p="Core" t="Include">
+                <e p="AndroidSettings.cs" t="Include" />
+                <e p="iOSSettings.cs" t="Include" />
+                <e p="MediaEventListener.cs" t="Include" />
+                <e p="MediaEvents.cs" t="Include" />
+              </e>
+              <e p="MediaController.cs" t="Include" />
+              <e p="MediaPlayer.cs" t="Include" />
+              <e p="UI" t="Include">
+                <e p="Internal" t="Include">
+                  <e p="ButtonEvent.cs" t="Include" />
+                  <e p="General.cs" t="Include" />
+                </e>
+                <e p="MediaButton.cs" t="Include" />
+                <e p="SeekBar.cs" t="Include" />
+                <e p="UISettings.cs" t="Include" />
+                <e p="VolumeBar.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Third-Party Notices.txt" t="Include" />
+          </e>
+          <e p="Plugins" t="Include">
+            <e p="Android" t="Include">
+              <e p="res" t="Include">
+                <e p="values" t="Include">
+                  <e p="strings.xml" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="ExternalDependencyManager" t="Include">
+          <e p="Editor" t="Include">
+            <e p="external-dependency-manager_v1.2.143.txt" t="Include" />
+            <e p="GoogleRegistries.xml" t="Include" />
+          </e>
+        </e>
+        <e p="Logger.cs" t="Include" />
+        <e p="Opencoding" t="Include">
+          <e p="Console" t="Include">
+            <e p="Demo" t="Include">
+              <e p="AdvancedCommandHandlerDemo.cs" t="Include" />
+              <e p="AttachToScreenEdge.cs" t="Include" />
+              <e p="BallGameController.cs" t="Include" />
+              <e p="BallGameGameOverUI.cs" t="Include" />
+              <e p="BallGameGeneralCommandHandlers.cs" t="Include" />
+              <e p="BallGameHUD.cs" t="Include" />
+              <e p="BallgameSaveSystem.cs" t="Include" />
+              <e p="BallSpawner.cs" t="Include" />
+              <e p="CommandSecurity" t="Include">
+                <e p="CommandSecurityPopup.cs" t="Include" />
+                <e p="ConsoleCommandSecurity.cs" t="Include" />
+                <e p="ExampleCommands.cs" t="Include" />
+                <e p="SecureCommandHandlerAttribute.cs" t="Include" />
+              </e>
+              <e p="ConsoleOutputTest.cs" t="Include" />
+              <e p="DemoBall.cs" t="Include" />
+              <e p="DemoController.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="AutomaticInstantiator.cs" t="Include" />
+              <e p="BuildPostProcessor.cs" t="Include" />
+              <e p="DebugConsoleEditorSettings.cs" t="Include" />
+              <e p="DebugConsoleInspector.cs" t="Include" />
+              <e p="DetectUpgrade.cs" t="Include" />
+              <e p="OpencodingConsoleAndroidDependencies.xml" t="Include" />
+            </e>
+            <e p="EmailTemplates" t="Include">
+              <e p="LogEmailFooter.txt" t="Include" />
+              <e p="LogEmailHeader.txt" t="Include" />
+            </e>
+            <e p="link.xml" t="Include" />
+            <e p="NativeMethods.cs" t="Include" />
+            <e p="readme.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="nativeAudioPlayer.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
